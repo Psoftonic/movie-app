@@ -1,4 +1,4 @@
-<h1>MOVIE APPB</h1>
+<h1>MOVIE APP</h1>
 
 <p>This is fully responsive movie search web application for all devices created using <br>HTML, CSS & JAVASCRIPT</p>
 <hr/>
